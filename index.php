@@ -7,7 +7,6 @@
 		$number++;
 	}
 
-	echo "hello";
 	
 ?>
 
