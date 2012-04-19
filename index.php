@@ -6,6 +6,8 @@
 		echo "{$first}{$number}>";
 		$number++;
 	}
+
+	echo "hello";
 	
 ?>
 
